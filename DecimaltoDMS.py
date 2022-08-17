@@ -5,5 +5,5 @@ def DecimaltoDMS(Decimal):
       return f'{abs(d)}^{abs(m)}E'
    else:
       return f'{abs(d)}^{abs(m)}W'
-print(DecimaltoDMS(170.0323))
+
 
